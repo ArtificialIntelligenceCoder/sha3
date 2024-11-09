@@ -1,6 +1,6 @@
 
 
-![z1](https://github.com/user-attachments/assets/332f7d5a-7c10-4aff-ba86-862376aa67fe)
+
 
 
 
@@ -79,9 +79,9 @@ This application is built for **Windows** using the `native-windows-gui` crate, 
 
 ### Screenshot
 
-![SHA3-512 Hash Generator](screenshot.png)
 
-*Screenshot of the application running (add a screenshot here).*
+![z1](https://github.com/user-attachments/assets/332f7d5a-7c10-4aff-ba86-862376aa67fe)
+
 
 ## Code Overview
 
