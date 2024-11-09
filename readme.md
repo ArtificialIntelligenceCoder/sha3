@@ -6,7 +6,7 @@
 
 
 
-pro tip- i made this so one can create a hash from a bunch of different strings and go vertical- for example the 3rd or 8th or last value of the hash return. the math to this is mind blowing. 
+pro tip- i made this so one can create a hash from a bunch of different strings and go vertical- for example the 3rd or 8th or last value of the hash return. the math to the number of possible hash returns is astounding.
 
 
 
