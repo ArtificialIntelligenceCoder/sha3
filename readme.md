@@ -1,3 +1,18 @@
+
+
+![z1](https://github.com/user-attachments/assets/332f7d5a-7c10-4aff-ba86-862376aa67fe)
+
+
+
+
+
+
+
+
+
+
+
+
 # SHA3-512 Hash Generator
 
 This is a simple GUI application built with Rust that allows you to generate SHA3-512 hashes from any input text. The application uses the `native-windows-gui` crate for the graphical interface and the `sha3` crate for hash generation.
